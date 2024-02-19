@@ -1,8 +1,8 @@
 # Data Scientist
 #### Technical Skills: Python, R, SQL, PySpark, Azure Databricks, Google cloud
-**Deep Learning**: Generative Models, EBMs, Diffusion Models, GANs
-**Machine Learning**: Penalized regression (Lasso, Ridge), Support Vector Machine, Decision Tree, Random Forest, GBM, Clustering (K-Means, GMM), Dimension Reduction (PCA, t-SNE)
-**Statistical Modeling**: Generalized Liner Model (GLM), Mixed model (GLMM), Hypothesis Testing, Propensity Score Matching, Randomization, Power Analysis, Survival analysis, Meta-analysis
+- **Deep Learning**: Generative Models, EBMs, Diffusion Models, GANs
+- **Machine Learning**: Penalized regression (Lasso, Ridge), Support Vector Machine, Decision Tree, Random Forest, GBM, Clustering (K-Means, GMM), Dimension Reduction (PCA, t-SNE)
+- **Statistical Modeling**: Generalized Liner Model (GLM), Mixed model (GLMM), Hypothesis Testing, Propensity Score Matching, Randomization, Power Analysis, Survival analysis, Meta-analysis
 
 
 ### Work Experience
