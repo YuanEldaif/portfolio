@@ -1,11 +1,15 @@
 # Data Scientist
-#### Technical Skills: Python, R, SQL, Azure Databricks, Google cloud
+#### Technical Skills: Python, R, SQL, PySpark, Azure Databricks, Google cloud
+**Deep Learning**: Generative Models, EBMs, Diffusion Models, GANs
+**Machine Learning**: Penalized regression (Lasso, Ridge), Support Vector Machine, Decision Tree, Random Forest, GBM, Clustering (K-Means, GMM), Dimension Reduction (PCA, t-SNE)
+**Statistical Modeling**: Generalized Liner Model (GLM), Mixed model (GLMM), Hypothesis Testing, Propensity Score Matching, Randomization, Power Analysis, Survival analysis, Meta-analysis
+
 
 ### Work Experience
 **Sr. Data Scientist @Mindoula Health, Inc (_Dec 2021 - Present_)**
 - Established the pipeline for propensity score matching, resulted in million-dollars savings and 75% time reduction for the analysis process.
-- Built reduction prediction model with AUC of 94% for stratification.
-- Experienced in Microsoft Azure Databricks Python, R, SQL
+- Built a reduction prediction model with AUC of 94% for members stratification.
+- Perform as a consultant for risk moddel evaluation and contract negotiation.
 - Design, build, and drive ML experiments and solutions by developing technical strategy for ROI and business roadmap.
 
 **Sr. Statistician @AdventHealth (_Jun 2015 - Dec 2021_)**
