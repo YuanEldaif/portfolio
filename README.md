@@ -1,4 +1,5 @@
 # Data Scientist
+#### Technical Skills: Python, R, SQL, Azure Databricks, Google cloud
 
 ### Work Experience
 Sr. Data Scientist @Mindoula Health, Inc.
