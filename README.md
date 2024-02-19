@@ -8,7 +8,7 @@
 - Experienced in Microsoft Azure Databricks Python, R, SQL
 - Design, build, and drive ML experiments and solutions by developing technical strategy for ROI and business roadmap.
 
-**Senior Statistician @AdventHealth (_Jun 2015 - Dec 2021)**
+**Sr. Statistician @AdventHealth (_Jun 2015 - Dec 2021_)**
 - Designed studies by using statistical methods and machine learning on patient outcomes and Population Health.
 - Co-authored publications with researchers.
 - Mentored researchers, managed junior biostatisticians and analysts by teaching statistical courses, attending journal clubs, and consultant on projects.
