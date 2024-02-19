@@ -16,9 +16,10 @@
 ## Projects
 ### Supervised tree-based classification models to aid the diagnosis of AML-MRC.
 [Publication](https://doi.org/10.1016/j.leukres.2021.106701)
+
  Supervised tree-based classification models including Decision tree, Random forest, and XGboost, and logistic regression were used to evaluate if the mutation profiles could be used to aid the diagnosis of AML-MRC. All methods showed good accuracy in differentiating AML-MRC from non-MRC AML with AUC (area under curve) of ROC ranging from 0.69 to 0.78. Additionally, logistic regression indicated 3 independent factors (age and mutations of TP53 and FLT3) could aid the diagnosis AML-MRC. Using weighted factors, a AML-MRC risk scoring equation was established for potential application in clinical setting: +1x(Age ≥ 65) + 3 x (TP53 mutation) – 2 x (FLT3 mutation). Using a cutoff score of 0, the accuracy of the risk score was 0.76 with sensitivity of 0.77 and specificity of 0.75 for predicting the diagnosis of AML-MRC.
  
-![Predict AML-MRC](/assets/img/AML.jpeg)
+![Predict AML-MRC](/featured.jpg)
   
 ### Education
 - Ph.D Candidate of Big Data Analytics, Statistics and Data Science, University of Central Florida
